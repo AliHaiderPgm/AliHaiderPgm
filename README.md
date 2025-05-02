@@ -20,7 +20,6 @@
 <a href="https://codepen.io/ali haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ali haider" height="30" width="40" /></a>
 <a href="https://twitter.com/alihaiderlali2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alihaiderlali2" height="30" width="40" /></a>
 <a href="https://fb.com/haider lali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haider lali" height="30" width="40" /></a>
-<a href="https://instagram.com/its_haider_lali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_haider_lali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
